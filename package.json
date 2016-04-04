@@ -1,0 +1,15 @@
+{
+  "name": "dragonslayer",
+  "version": "1.0.0",
+  "description": "DragonSlayer game",
+  "main": "index.js",
+  "dependencies": {
+    "figlet": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Onodi <robert.onodi89@gmail.com> (http://robertonodi.me)",
+  "license": "MIT"
+}
